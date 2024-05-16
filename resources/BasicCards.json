@@ -1,0 +1,133 @@
+{
+  "basic_cards": [
+
+    {
+      "type": "basic",
+      "name": "cheese"
+    },
+    {
+      "type": "basic",
+      "name": "cheesecake"
+    },
+    {
+      "type": "basic",
+      "name": "cherries"
+    },
+    {
+      "type": "basic",
+      "name": "chocolate"
+    },
+    {
+      "type": "basic",
+      "name": "corn"
+    },
+    {
+      "type": "basic",
+      "name": "eggplant"
+    },
+    {
+      "type": "basic",
+      "name": "grapes"
+    },
+    {
+      "type": "basic",
+      "name": "green_apple"
+    },
+    {
+      "type": "basic",
+      "name": "kiwi"
+    },
+    {
+      "type": "basic",
+      "name": "lemon"
+    },
+    {
+      "type": "basic",
+      "name": "lime"
+    },
+    {
+      "type": "basic",
+      "name": "meat"
+    },
+    {
+      "type": "basic",
+      "name": "milk"
+    },
+    {
+      "type": "basic",
+      "name": "mushroom"
+    },
+    {
+      "type": "basic",
+      "name": "orange"
+    },
+    {
+      "type": "basic",
+      "name": "pizza"
+    },
+    {
+      "type": "basic",
+      "name": "red_apple"
+    },
+    {
+      "type": "basic",
+      "name": "soda"
+    },
+    {
+      "type": "basic",
+      "name": "strawberry"
+    },
+    {
+      "type": "basic",
+      "name": "sweetie"
+    },
+    {
+      "type": "basic",
+      "name": "waffle"
+    },
+    {
+      "type": "basic",
+      "name": "watermelon"
+    },
+    {
+      "type": "basic",
+      "name": "hamburguer"
+    },
+    {
+      "type": "basic",
+      "name": "chicken"
+    },
+    {
+      "type": "basic",
+      "name": "pear"
+    },
+    {
+      "type": "basic",
+      "name": "fish"
+    },
+    {
+      "type": "basic",
+      "name": "chips"
+    },
+    {
+      "type": "basic",
+      "name": "croissant"
+    },
+    {
+      "type": "basic",
+      "name": "pineapple"
+    },
+    {
+      "type": "basic",
+      "name": "honey"
+    },
+    {
+      "type": "basic",
+      "name": "sushi"
+    },
+    {
+      "type": "basic",
+      "name": "cake"
+    }
+  ]
+}

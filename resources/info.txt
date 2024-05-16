@@ -1,0 +1,37 @@
+MEMORY RULES
+------------
+
+Memory is a game of memorization for one or more players. 
+
+In each turn, a player chooses two of the cards on the table, one after the other, revealing their content. 
+If they have the same picture, the players is awarded some points and these cards stay lifted the rest of the game. Otherwise, they return to their original state, face down. 
+
+The game ends once all cards have been discovered and the winner is the player with the most points.
+
+
+Memory offers a few different options for a game:
+
+- Number of players. Between 1-4 people.
+- Board dimensions. The higher, the harder. The options are from 4x4 up to 16x4.
+- Game Mode. Either classic or arcade (which includes special cards).
+- Names of the players.
+- Difficulty of automatic bots. The players are configured as human by default, but they can be turned into bots selecting between three levels of difficulty: easy, normal and hard.
+
+
+The rules of the game are the following:
+
+1) Two cards will be lifted in every turn (except special card).
+2) If a player discovers a pair, he goes again.
+3) Discovering a pair of basic cards is worth +10 points.
+
+
+The special cards are:
+
+· Bomb Card: A special card that takes 20 points off the unfortunte player who discovers it.
+· Thief Pair: A special card that steals 10 points form all the other players and gives them to a lucky player.
+· Golden Pair: A special card that awards a large sum of points to a lucky player (+50).
+· DeathSkull Card: A special card that deletes all the points from the score of a very unfortunate player.
+· Shield Pair: A special card that provides protection against all forms of misfortune for a lucky player.
+· Elixir Pair: A special card that provides a 50% boost in all future points gained for a lucky player.
+· Nightmare Card: A special card that puts an unfortunate player through a terrible nightmare. He loses a turn.
+· Poison Card: A special card that decreases the amount of all future points gained for an unfortunate player (-20%).
